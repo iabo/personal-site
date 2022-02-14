@@ -16,6 +16,7 @@ const data = [
   {
     title: 'Inventory for local food business',
     subtitle: 'Inventory Management',
+    link: 'http://143.198.135.253/',
     image: '/images/projects/harvest.jpg',
     date: '2015-09-20',
     desc:
