@@ -32,7 +32,7 @@ const positions = [
       'System administration and server maintenance.',
       'Database administration.',
       'Data modeling and reporting.',
-      'Forecast data modeling.',
+      'Forecast and data modeling.',
     ],
   },
   {
