@@ -9,7 +9,8 @@ const validateText = (text) => {
 };
 
 const messages = [
-  'hi',
+  'admin',
+  'yabdala',
   'hello',
   'hola',
   'you-can-email-me-at-literally-anything! Really',
