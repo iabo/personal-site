@@ -3,10 +3,10 @@ const positions = [
     company: 'Indevs',
     position: 'Founder, C.E.O.',
     link: 'https://indevs.site',
-    daterange: 'January 2014 - Present',
+    daterange: 'January 201 - Present',
     points: [
-      'In charge of talent adquisition and customer relationship management.',
-      'Lead technical solution engineering, designing end-to-end architechture.',
+      'In charge of talent acquisition and customer relationship management.',
+      'Lead technical solution engineering, designing end-to-end architecture.',
       'Built production, on-line, end-to-end optimized solution hosted on virtual private served via Ngnix web server.',
     ],
   },
