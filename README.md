@@ -38,5 +38,5 @@ Your web browser should automatically open to `<ip>:<port>:<path>` default: [htt
 
 ## Acknowledgements
 
-<!-- * Template based on [Future Imperfect](https://html5up.net/future-imperfect) by [@ajlkn](https://github.com/ajlkn) for [HTML5 UP](html5up.net). -->
+* Template based on [Future Imperfect](https://html5up.net/future-imperfect) by [@ajlkn](https://github.com/ajlkn) for [HTML5 UP](html5up.net)
 * Template based on [personal-site](https://github.com/mldAngelo/personal-site) by [@mldAngelo](https://github.com/mldAngelo) 

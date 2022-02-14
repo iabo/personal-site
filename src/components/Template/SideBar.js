@@ -19,14 +19,12 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Yabdul. I like building things.
-        I am a <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC Alumni, and
-        the co-founder and CTO of <a href="https://arthena.com">Arthena</a>. Before Arthena I was
-        at <a href="https://matroid.com">Matroid</a>
-        , <a href="https://planet.com">Planet</a>
-        , <a href="https://planetaryresources.com">Planetary Resources</a>
-        , <a href="https://facebook.com">Facebook</a>
-        , and <a href="https://seds.org">SEDS</a>.
+      <p>Hi, My name is Yabdul. I'm a software engineer with professional knowledge in backend technologies such as Python, PHP, Nginx, Odoo ERP, Flask, and Laravel.
+        I am a <a href="https://www.unadmexico.mx/">UNADM</a> graduate with years of experience as a sysadmin for large companies in the construction sector.
+        I am also the founder and CEO of <a href="https://indevs.site">Indevs</a>. Before Indevs 
+        at <a href="https://www.blharbert.com/">BL Harbert</a>
+        , <a href="https://coinsamatik.com/">CoinsaMatik</a>
+        , and <a href="https://www.trabis.com.mx/">Trabis</a>.
       </p>
       <ul className="actions">
         <li>
