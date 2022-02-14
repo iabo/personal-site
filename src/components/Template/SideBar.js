@@ -19,10 +19,9 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, My name is Yabdul. I'm a software engineer with professional knowledge in backend technologies such as Python, PHP, Nginx, Odoo ERP, Flask, and Laravel.
-        I am a <a href="https://www.unadmexico.mx/">UNADM</a> graduate with years of experience as a sysadmin for large companies in the construction sector.
-        I am also the founder and CEO of <a href="https://indevs.site">Indevs</a>. Before Indevs 
-        at <a href="https://www.blharbert.com/">BL Harbert</a>
+      <p>I&#39;m a software engineer from <a href="https://www.unadmexico.mx/">UNADM</a> with professional experience in backend technologies such as Python, PHP, Nginx, Odoo ERP, Flask, and Laravel.
+        I&#39;ve worked as a sysadmin for large companies in the construction sector and I also do freelance work as a software consultant at <a href="https://indevs.site">Indevs</a>.
+        Before Indevs I was at <a href="https://www.blharbert.com/">BL Harbert</a>
         , <a href="https://coinsamatik.com/">CoinsaMatik</a>
         , and <a href="https://www.trabis.com.mx/">Trabis</a>.
       </p>
