@@ -6,7 +6,7 @@ const positions = [
     daterange: 'January 2014 - Present',
     points: [
       'In charge of talent adquisition and customer relationship management.',
-      'Lead technical solution engineering, designing end-to-end architechture.'
+      'Lead technical solution engineering, designing end-to-end architechture.',
       'Built production, on-line, end-to-end optimized solution hosted on virtual private served via Ngnix web server.',
     ],
   },
@@ -17,7 +17,7 @@ const positions = [
     daterange: 'April 2019 - Present',
     points: [
       'Network deployment and server administration',
-      'User support desktop and systems stewardship'
+      'User support desktop and systems stewardship',
       'Internal software solutions development for warehouse and logistics department.',
     ],
   },
@@ -32,7 +32,7 @@ const positions = [
       'System administration and server maintenance.',
       'Database administration.',
       'Data modeling and reporting.',
-      'Forecast data modeling.'
+      'Forecast data modeling.',
     ],
   },
   {
