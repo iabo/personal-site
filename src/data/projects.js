@@ -19,7 +19,7 @@ const data = [
     image: '/images/projects/harvest.jpg',
     date: '2015-09-20',
     desc:
-      + 'Vanilla Bootstrap-PHP project'
+      + 'Vanilla Bootstrap-PHP project',
       + 'Basic functionallity',
   },
 
