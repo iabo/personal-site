@@ -19,8 +19,8 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>I&#39;m a software engineer from <a href="https://www.unadmexico.mx/">UNADM</a> with professional experience in backend technologies such as Python, PHP, Nginx, Odoo ERP, Flask, and Laravel.
-        I&#39;ve worked as a sysadmin for large companies in the construction sector and I also do freelance work as a software consultant at <a href="https://indevs.site">Indevs</a>.
+      <p>I&#39;m a software engineer from <a href="https://www.unadmexico.mx/">UNADM</a> with proficiency in backend technologies such as Python, PHP, Nginx, Odoo ERP, Flask, and Laravel.
+      I am the founder of <a href="https://indevs.site">Indevs</a> a software consulting company and I also have professional experience as a sysadminand for several companies.
         Before Indevs I was at <a href="https://www.blharbert.com/">BL Harbert</a>
         , <a href="https://coinsamatik.com/">CoinsaMatik</a>
         , and <a href="https://www.trabis.com.mx/">Trabis</a>.
