@@ -1,5 +1,6 @@
 // TODO Add a couple lines about each project
 const data = [
+/*
   {
     title: 'Nearest Dollar',
     subtitle: '2015 BVP Hackathon',
@@ -42,7 +43,9 @@ const data = [
       'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
       + 'Over 60,000 cats were classified before server bills made the project too expensive '
       + 'to continue hosting.',
-  },
+  },*/
+
+  
 ];
 
 export default data;
